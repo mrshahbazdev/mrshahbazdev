@@ -1,21 +1,24 @@
 <div align="center">
-  <a href="https://github.com/mrshahbazdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrshahbazdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="mrshahbazdev's GitHub Stats" />
-  </a>
+
+  <img src="[BANNER_IMAGE_URL]" alt="Shahbaz - Full Stack Developer Banner" />
+
+  <br/>
+
+  <h1 align="center">
+    👋 Hey, I'm Shahbaz! A Full Stack Developer
+  </h1>
+
+  <p align="center">
+    I am a passionate and results-driven <strong>Full Stack Developer</strong> from Pakistan with extensive experience in building high-quality, custom web solutions. From dynamic <strong>WordPress themes & plugins</strong> to robust <strong>Shopify apps</strong> and scalable web applications with <strong>PHP (Laravel, CodeIgniter)</strong> and the <strong>MERN stack</strong>, I architect and develop solutions that solve real-world problems.
+  </p>
+
+  <p align="center">
+    <a href="mailto:mrshahbaznns@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://wa.me/923061081842" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+    <a href="[YOUR_LINKEDIN_URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="[YOUR_UPWORK_OR_FIVERR_URL]" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
+  </p>
 </div>
-
-<h1 align="center">
-  👋 Hey, I'm Shahbaz! A Full Stack Developer
-</h1>
-
-<p align="center">
-  I am a passionate and results-driven <strong>Full Stack Developer</strong> from Pakistan with extensive experience in building high-quality, custom web solutions. From dynamic <strong>WordPress themes & plugins</strong> to robust <strong>Shopify apps</strong> and scalable web applications with <strong>PHP (Laravel, CodeIgniter)</strong> and the <strong>MERN stack</strong>, I architect and develop solutions that solve real-world problems.
-</p>
-
-<p align="center">
-  <a href="[YOUR_LINKEDIN_URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:[YOUR_EMAIL_ADDRESS]"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
 
 ---
 
@@ -78,12 +81,27 @@
 
 ---
 
-## 📈 My GitHub Activity
+## 🏆 My Featured Projects
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-stats-pin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrshahbazdev&repo=[YOUR_PINNED_REPO_NAME]&theme=dracula" alt="Featured Project" />
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-stats-pin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrshahbazdev&repo=[ANOTHER_PINNED_REPO_NAME]&theme=dracula" alt="Featured Project 2" />
+  </a>
+</p>
+
+---
+
+## 📊 My GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshahbazdev&langs_count=8&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrshahbazdev&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrshahbazdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="mrshahbazdev's GitHub Stats" />
+  <br/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrshahbazdev&bg_color=282a36&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
 </div>
 
 ---
@@ -95,6 +113,8 @@
 </p>
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL]" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="[YOUR_TWITTER_OR_OTHER_PROFILE_URL]" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="Twitter/X" height="30" width="40" /></a>
+  <a href="mailto:mrshahbaznns@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/923061081842" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="[YOUR_LINKEDIN_URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="[YOUR_TWITTER_OR_OTHER_PROFILE_URL]" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="Twitter/X" height="38" /></a>
 </p>
