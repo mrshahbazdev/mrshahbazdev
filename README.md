@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.imgur.com/0D2p9aC.png" alt="Shahbaz - Full Stack Developer Banner" />
+  <img src="https://github.com/mrshahbazdev/mrshahbazdev/blob/main/banner.png" alt="Shahbaz - Full Stack Developer Banner" />
 
   <br/>
 
