@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="[BANNER_IMAGE_URL]" alt="Shahbaz - Full Stack Developer Banner" />
+  <img src="https://i.imgur.com/0D2p9aC.png" alt="Shahbaz - Full Stack Developer Banner" />
 
   <br/>
 
@@ -15,7 +15,7 @@
   <p align="center">
     <a href="mailto:mrshahbaznns@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://wa.me/923061081842" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-    <a href="[YOUR_LINKEDIN_URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/muhammad-shahbaz-9746bb1a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="[YOUR_UPWORK_OR_FIVERR_URL]" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
   </p>
 </div>
@@ -115,6 +115,6 @@
 <p align="center">
   <a href="mailto:mrshahbaznns@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/923061081842" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="[YOUR_LINKEDIN_URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="[YOUR_TWITTER_OR_OTHER_PROFILE_URL]" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="Twitter/X" height="38" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-shahbaz-9746bb1a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.fiverr.com/s/DBLX84a" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="Twitter/X" height="38" /></a>
 </p>
